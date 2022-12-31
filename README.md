@@ -1,5 +1,5 @@
-# Random-Face-Telegram-Bot
-A simple bot that generates a random face
+# Random Face Generator Telegram Bot
+A simple bot that generates a random face whenever you send them `/generate`
 
 
 ## How to install
