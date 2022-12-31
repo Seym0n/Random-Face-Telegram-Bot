@@ -1,6 +1,7 @@
-import telebot
 import os
+
 import requests
+import telebot
 from dotenv import load_dotenv
 from PIL import Image
 
