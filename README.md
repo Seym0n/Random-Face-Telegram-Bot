@@ -10,3 +10,4 @@ A simple bot that generates a random face whenever you send them `/generate`
 
 
 _Note: This project is used to demonstrate the use of SonarCloud and Super Linter_
+
