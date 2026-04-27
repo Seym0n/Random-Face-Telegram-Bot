@@ -19,7 +19,7 @@ standard_message = (
 @bot.message_handler(commands=["generate"])
 def send_random_face(message):
     random_photo = Image.open(
-        requests.get("https://thispersondoesnotexist.com/image", stream=True).raw
+        requests.get("https://thispersondoesnotexist.com", stream=True).raw
     )
     bot.send_photo(message.chat.id, random_photo)
 
